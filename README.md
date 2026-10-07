@@ -3,7 +3,9 @@
 Built an Active Directory environment in VirtualBox to simulate a small business infrastructure.
 
 Overview
+
 Components:
+
 Host Machine: ThinkCentre
 -
 -
