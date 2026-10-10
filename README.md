@@ -53,3 +53,4 @@ I built this project to develop practical Windows administration and networking 
 
 ### Locked Account Ticket
 <img width="1004" height="765" alt="Screenshot 2026-10-09 at 5 46 39 PM" src="https://github.com/user-attachments/assets/f8f12cc9-f45e-4ae9-8339-12beb47dc78c" />
+<img width="1122" height="703" alt="Screenshot 2026-10-09 at 5 48 43 PM" src="https://github.com/user-attachments/assets/7b9e317d-a47e-4e7f-820b-70d00fb41153" />
