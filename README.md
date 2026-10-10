@@ -21,6 +21,7 @@ Built a hands-on Windows Active Directory lab to practice domain administration,
 - Practiced account lockout troubleshooting, passwords resets, and user onboarding/offboarding.
 - Troubleshot domain-join connectivity issue by identifying and correcting VirtualBox network configuration problems.
 - Configured a VirtualBox NAT network to enable communication between virtual machines.
+- Used Spiceworks to create 2 tickets.
 
 ## Skills Practiced
 
