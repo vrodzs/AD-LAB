@@ -44,3 +44,7 @@ I built this project to develop practical Windows administration and networking 
 <img width="2547" height="1179" alt="Screenshot 2026-10-09 174226" src="https://github.com/user-attachments/assets/e5312f0c-2daf-4773-a532-f7cd7b8e1bd3" />
 <img width="1147" height="980" alt="Screenshot 2026-10-09 175140" src="https://github.com/user-attachments/assets/f4d0eae6-9b21-4f27-b8c7-d5db5692c720" />
 
+## Tickets
+
+<img width="1122" height="734" alt="Screenshot 2026-10-09 at 6 02 41 PM" src="https://github.com/user-attachments/assets/6b8c3dd1-9f75-4618-be1a-99f492ca3cc5" />
+<img width="1004" height="765" alt="Screenshot 2026-10-09 at 5 46 39 PM" src="https://github.com/user-attachments/assets/f8f12cc9-f45e-4ae9-8339-12beb47dc78c" />
