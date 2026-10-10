@@ -47,5 +47,9 @@ I built this project to develop practical Windows administration and networking 
 
 ## Tickets
 
+### New User Onboarding Ticket
+
 <img width="1122" height="734" alt="Screenshot 2026-10-09 at 6 02 41 PM" src="https://github.com/user-attachments/assets/6b8c3dd1-9f75-4618-be1a-99f492ca3cc5" />
+
+### Locked Account Ticket
 <img width="1004" height="765" alt="Screenshot 2026-10-09 at 5 46 39 PM" src="https://github.com/user-attachments/assets/f8f12cc9-f45e-4ae9-8339-12beb47dc78c" />
